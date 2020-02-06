@@ -1,6 +1,6 @@
-Author: W3tweaks
-Author URL: http://www.w3tweaks.com/
-Author Email: w3tweaks@gmail.com
+Author: Mohd Tariq Khan
+Author URL: https://github.com/tariqprolines
+Author Email: tariq.prolines.sa@gmail.com
 
 ============Steps to Follow============
 1. Create a database (twitterlogin) at phpMyAdmin.
