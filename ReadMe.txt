@@ -10,4 +10,4 @@ Author Email: tariq.prolines.sa@gmail.com
 5. Test the functionalities.
 
 ============ May I Help You ===========
-If you have any query about this script, please feel free to contact us at w3tweaks@gmail.com. We will reply your query soon.
+If you have any query about this script, please feel free to contact us at tariq.prolines.sa@gmail.com. We will reply your query soon.
